@@ -1,0 +1,18 @@
+<header>
+  <img src="./assets/logo.svg" alt="logo">
+
+  <ul>
+    <li>
+      <a [routerLink]="['']">Home</a>
+    </li>
+    <li>
+      <a [routerLink]="['sobre']">Sobre</a>
+    </li>
+    <li>
+      <button (click)="toggle()">
+        <img src="./assets/{{ icon }}.svg" alt="">
+      </button>
+    </li>
+  </ul>
+
+</header>
