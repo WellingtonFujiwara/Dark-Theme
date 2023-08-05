@@ -1,5 +1,31 @@
 # DarkTheme
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/WellingtonFujiwara/Dark-Theme/blob/main/LICENSE) 
+
+# Sobre o projeto
+
+https://dark-theme-iota.vercel.app/
+
+Dark Theme é uma aplicação Front end web para alternar entre dark mode e light mode.
+
+## Layout web
+![Web 1](https://github.com/WellingtonFujiwara/Dark-Theme/blob/main/src/assets/WebView.jpeg)
+
+# Tecnologias utilizadas
+
+## Front end
+- HTML / SCSS / TypeScript
+- Angular
+
+## Implantação em produção
+- Front end web: Vercel
+
+# Autor
+
+Wellington Xavier Alves Fujiwara
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-xavier-alves-fujiwara-65a04018a/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
